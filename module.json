@@ -1,0 +1,34 @@
+{
+  "id": "swade-turn-modifiers",
+  "title": "SWADE Turn Modifiers",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "authors": [
+    {
+      "name": "Ariam Moresco Bartsch",
+      "email": "ariambartsch@gmail.com",
+      "discord": "herianb",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/Ariamb/swade-turn-modifiers/",
+  "flags": {
+    "canUpload": true
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "swade",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "",
+  "scripts": [
+    "scripts/main.js"
+  ]
+}
